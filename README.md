@@ -52,7 +52,7 @@ We apply an **ensemble-based approach using LightGBM** (Gradient Boosted Decisio
 - Final model generalized well to unseen fraud types.
 - 
 ## Distribution of Transaction Type(Screenshot):
-![Distribution](https://github.com/user-attachments/assets/7b08bd49-27e6-49bf-afec-a6077eaa325e
+https://github.com/user-attachments/assets/7b08bd49-27e6-49bf-afec-a6077eaa325e
 
 ---
 
