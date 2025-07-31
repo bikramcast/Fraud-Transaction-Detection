@@ -50,9 +50,14 @@ We apply an **ensemble-based approach using LightGBM** (Gradient Boosted Decisio
 - LightGBM significantly outperformed other models.
 - Achieved high precision with low false positive rate.
 - Final model generalized well to unseen fraud types.
-- 
-## Distribution of Transaction Type(Screenshot):
-https://github.com/user-attachments/assets/7b08bd49-27e6-49bf-afec-a6077eaa325e
+
+  
+## 📈 Visualizations
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7b08bd49-27e6-49bf-afec-a6077eaa325e
+" alt="Distribution Of Transaction(Screenshot Image)" width="600"/>
+</p>
 
 ---
 
