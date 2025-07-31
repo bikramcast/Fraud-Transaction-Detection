@@ -56,14 +56,6 @@ We apply an **ensemble-based approach using LightGBM** (Gradient Boosted Decisio
 
 ---
 
-## 📈 Visualizations
-
-![ROC Curve](results/roc_curve.png)
-*ROC Curve for all models*
-
-![Confusion Matrix](results/confusion_matrix.png)
-*LightGBM Confusion Matrix*
-
 ---
 
 ## 🧪 Dataset
