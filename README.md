@@ -50,6 +50,9 @@ We apply an **ensemble-based approach using LightGBM** (Gradient Boosted Decisio
 - LightGBM significantly outperformed other models.
 - Achieved high precision with low false positive rate.
 - Final model generalized well to unseen fraud types.
+- 
+## Distribution of Transaction Type(Screenshot):
+![Distribution](https://github.com/user-attachments/assets/7b08bd49-27e6-49bf-afec-a6077eaa325e
 
 ---
 
@@ -106,13 +109,6 @@ This project provides a strong baseline and can be extended into research areas 
 
 ---
 
-## 🚀 Run It Yourself
-
-```bash
-git clone https://github.com/yourusername/fraud-detection-lightgbm.git
-cd fraud-detection-lightgbm
-pip install -r requirements.txt
-python train_model.py
 📄 References
 Krawczyk, B. Learning from Imbalanced Data, Springer (2016)
 
