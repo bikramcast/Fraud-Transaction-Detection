@@ -55,8 +55,7 @@ We apply an **ensemble-based approach using LightGBM** (Gradient Boosted Decisio
 ## 📈 Visualizations
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7b08bd49-27e6-49bf-afec-a6077eaa325e
-" alt="Distribution Of Transaction(Screenshot Image)" width="600"/>
+  <img src="https://github.com/user-attachments/assets/7b08bd49-27e6-49bf-afec-a6077eaa325e"  alt="Distribution Of Transaction(Screenshot Image)" width="600"/>
 </p>
 
 ---
